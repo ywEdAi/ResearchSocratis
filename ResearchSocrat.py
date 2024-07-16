@@ -16,7 +16,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed",
 )
-st.title("ResearchSocrat")
+st.title("ResearchSocratis")
 st.write("Research tutor that guides students for independent research based on research methodologies and Socratic questioning")
 
 st.write("Please ask questions about how to conduct an independent research related to your interested topic")
