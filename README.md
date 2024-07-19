@@ -4,6 +4,7 @@
 
 ResearchSocrat is an intelligent research tutor that guides students through independent research projects. It leverages research methodologies and Socratic questioning to help students develop their research skills. The tool integrates with OpenAI's API to provide interactive assistance and generate mind maps for visual representation of the research process.
 
+live demo:https://researchsocratis.streamlit.app/
 ## Features
 
 - **Socratic Questioning**: Guides students using the Socratic method, prompting critical thinking and deeper understanding.
